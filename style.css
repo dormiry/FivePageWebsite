@@ -1,0 +1,43 @@
+@font-face { 
+  font-family: 'Cookie';
+  src: url(Cookie.ttf);
+}
+
+.icon {
+  width: 100px;
+  padding-bottom: 50px;
+}
+
+.sprite-vanilla {
+  width: 400px;
+  
+}
+
+.sprite-large{
+  width:350px
+}
+
+body {
+  background-color: #FAF6E7;
+  font-family: 'Cookie';
+  text-align: center;
+  color: #A82D21;
+  
+}
+
+
+a:link {
+  text-decoration: none;
+  color: #A82D21;
+  font-size: 30px;
+}
+
+a:visited {
+  color:#A82D21;
+}
+
+a:hover {
+  color: #22A8A1;
+  transition: 0.5s;
+}
+
